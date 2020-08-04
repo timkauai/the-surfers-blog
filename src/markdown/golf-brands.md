@@ -1,0 +1,18 @@
+---
+path: "/golf-brands/"
+post: "keyword-page"
+keyword: "Golf Brands"
+keyword1: "Golf Courses"
+keyword2: "Golf Product Reviews"
+keyword3: "Golf Brands"
+keyword4: "Trendy Golf Talk"
+keyword5: "PGA Golf Talk"
+keyword6: "Golf Tips"
+keyword1path: "/golf-courses/"
+keyword2path: "/golf-product-reviews/"
+keyword3path: "/golf-brands/"
+keyword4path: "/trendy-golf-talk/"
+keyword5path: "/pga-golf-talk/"
+keyword6path: "/golf-tips/"
+amount: "0"
+---
