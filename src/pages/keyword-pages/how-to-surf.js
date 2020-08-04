@@ -7,7 +7,7 @@ import Img from "gatsby-image";
 
 import "../styles/styles.scss";
 
-const GolfProductReviewsPage = ({ data }) => {
+const HowToSurfPage = ({ data }) => {
   const [burger, setBurger] = useState(false);
 
   useEffect(() => {
@@ -24,7 +24,7 @@ const GolfProductReviewsPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <h1 className="centered"> Catagory: Golf Product Reviews </h1>{" "}
+      <h1 className="centered"> Catagory: {dt.keyword} </h1>{" "}
       <hr className="horiz-line" />
       <div className="keywords">
         <Link to={dt.keyword1path}> {dt.keyword1} </Link>{" "}
@@ -57,10 +57,30 @@ const GolfProductReviewsPage = ({ data }) => {
           <p> {dt.large1.desc} </p> <Link to={dt.large1.path}> Read More </Link>{" "}
         </div>{" "}
       </div>{" "}
-      <h3 className="center">
+      <div className="large above-fold">
+        <div className="featured-large-img"> </div>{" "}
+        <div className="large-padding">
+          <div className="titleing">
+            <h1 className="article-title"> {dt.large2.title} </h1>{" "}
+            <h3> {dt.large2.keywords} </h3>{" "}
+          </div>{" "}
+          <p> {dt.large2.desc} </p> <Link to={dt.large2.path}> Read More </Link>{" "}
+        </div>{" "}
+      </div>{" "}
+      <div className="large above-fold">
+        <div className="featured-large-img"> </div>{" "}
+        <div className="large-padding">
+          <div className="titleing">
+            <h1 className="article-title"> {dt.large3.title} </h1>{" "}
+            <h3> {dt.large3.keywords} </h3>{" "}
+          </div>{" "}
+          <p> {dt.large3.desc} </p> <Link to={dt.large3.path}> Read More </Link>{" "}
+        </div>{" "}
+      </div>{" "}
+      <h3>
         {" "}
-        We are sorry, but our writers have not produced any more content on Golf
-        Product Reviews quite yet, look forward to some soon!!
+        We are sorry, but our writers have not produced any content on Golf
+        Courses quite yet, look forward to some soon!!
       </h3>{" "}
       <div className="out-of-content">
         <h3>
@@ -84,12 +104,12 @@ const GolfProductReviewsPage = ({ data }) => {
   );
 };
 
-export default GolfProductReviewsPage;
+export default HowToSurfPage;
 
-export const GolfProductReviewsQuery = graphql`
-  query GolfProductReviews {
+export const HowToSurfQuery = graphql`
+  query HowToSurf {
     allMarkdownRemark(
-      filter: { frontmatter: { keyword: { eq: "Golf Product Reviews" } } }
+      filter: { frontmatter: { keyword: { eq: "How to Surf" } } }
     ) {
       nodes {
         frontmatter {
@@ -108,9 +128,21 @@ export const GolfProductReviewsQuery = graphql`
           keyword6path
           large1 {
             title
+            path
             keywords
             desc
+          }
+          large2 {
+            title
             path
+            keywords
+            desc
+          }
+          large3 {
+            title
+            path
+            keywords
+            desc
           }
         }
       }

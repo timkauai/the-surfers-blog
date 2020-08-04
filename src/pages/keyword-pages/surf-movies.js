@@ -7,7 +7,7 @@ import Img from "gatsby-image";
 
 import "../styles/styles.scss";
 
-const TrendyGolfTalk = ({ data }) => {
+const SurfMoviesPage = ({ data }) => {
   const [burger, setBurger] = useState(false);
 
   useEffect(() => {
@@ -24,7 +24,7 @@ const TrendyGolfTalk = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <h1 className="centered"> Catagory: Trendy Golf Talk </h1>{" "}
+      <h1 className="centered"> Catagory: {dt.keyword} </h1>{" "}
       <hr className="horiz-line" />
       <div className="keywords">
         <Link to={dt.keyword1path}> {dt.keyword1} </Link>{" "}
@@ -52,25 +52,15 @@ const TrendyGolfTalk = ({ data }) => {
         <div className="large-padding">
           <div className="titleing">
             <h1 className="article-title"> {dt.large1.title} </h1>{" "}
-            <h3> {dt.large1.keywords}</h3>{" "}
+            <h3> {dt.large1.keywords} </h3>{" "}
           </div>{" "}
-          <p>{dt.large1.desc}</p> <Link to={dt.large1.path}> Read More </Link>{" "}
+          <p> {dt.large1.desc} </p> <Link to={dt.large1.path}> Read More </Link>{" "}
         </div>{" "}
-      </div>
-      <div className="large above-fold">
-        <div className="featured-large-img"> </div>{" "}
-        <div className="large-padding">
-          <div className="titleing">
-            <h1 className="article-title"> {dt.large2.title} </h1>{" "}
-            <h3> {dt.large2.keywords}</h3>{" "}
-          </div>{" "}
-          <p>{dt.large2.desc}</p> <Link to={dt.large2.path}> Read More </Link>{" "}
-        </div>{" "}
-      </div>
-      <h3>
+      </div>{" "}
+      <h3 className="center">
         {" "}
-        We are sorry, but our writers have not produced any more content on
-        Trendy Golf Topics quite yet, look forward to some soon!!
+        We are sorry, but our writers have not produced any more content on Golf
+        Product Reviews quite yet, look forward to some soon!!
       </h3>{" "}
       <div className="out-of-content">
         <h3>
@@ -94,12 +84,12 @@ const TrendyGolfTalk = ({ data }) => {
   );
 };
 
-export default TrendyGolfTalk;
+export default SurfMoviesPage;
 
-export const TrendyGolfTalkQuery = graphql`
-  query TrendyGolfTalk {
+export const SurfMoviesQuery = graphql`
+  query SurfMovies {
     allMarkdownRemark(
-      filter: { frontmatter: { keyword: { eq: "Trendy Golf Talk" } } }
+      filter: { frontmatter: { keyword: { eq: "Surf Movies" } } }
     ) {
       nodes {
         frontmatter {
@@ -118,15 +108,9 @@ export const TrendyGolfTalkQuery = graphql`
           keyword6path
           large1 {
             title
-            path
             keywords
             desc
-          }
-          large2 {
-            title
             path
-            keywords
-            desc
           }
         }
       }
