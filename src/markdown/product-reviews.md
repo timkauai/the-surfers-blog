@@ -1,0 +1,18 @@
+---
+path: "/product-reviews"
+post: "keyword-page"
+keyword: "Product Reviews"
+keyword1: "How To Surf"
+keyword1path: "/keyword-pages/how-to-surf/"
+keyword2: "Trendy Surf Talk"
+keyword2path: "/keyword-pages/trendy-surf-talk/"
+keyword3: "WSL Surf Talk"
+keyword3path: "/keyword-pages/WSL-surf-talk/"
+keyword4: "Product Reviews"
+keyword4path: "/keyword-pages/product-reviews/"
+keyword5: "Surf Movies"
+keyword5path: "/keyword-pages/surf-movies/"
+keyword6: "Surf Brands"
+keyword6path: "/keyword-pages/surf-brands/"
+amount: "0"
+---
