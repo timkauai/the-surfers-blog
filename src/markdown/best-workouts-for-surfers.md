@@ -17,12 +17,13 @@ keyword6path: "/keyword-pages/surf-brands/"
 author: "Written By James Pratt"
 keywords: "How to Surf • Trendy Surf Talk"
 ---
+
 <!---Best Workouts for Surfers
-There are a couple different types of workouts you can do to improve your surfing: Body weight exercises, Swimming workouts (in a lap pool), Paddling workouts and Yoga/Flexibility workouts. 
+There are a couple different types of workouts you can do to improve your surfing: Body weight exercises, Swimming workouts (in a lap pool), Paddling workouts and Yoga/Flexibility workouts.
 
-Body weight exercises are good if you are stuck at home during quarantining and you want something to do to keep in shape when you can get back in the water. 
+Body weight exercises are good if you are stuck at home during quarantining and you want something to do to keep in shape when you can get back in the water.
 
-The swimming workout mentioned in this blog post is good for getting ready for better breath holding and big wave surfing. 
+The swimming workout mentioned in this blog post is good for getting ready for better breath holding and big wave surfing.
 
 The paddling workout will help you paddle into waves better and possibly catch more waves, I believe that working on your padding is the most beneficial to you as a surf as it will help you get more waves.
 
@@ -48,7 +49,7 @@ Here is a description of why we do each one:
 
 Split Leg Squats: they help hip strength and flexibility
 Squat Jumps: Improve squat strength, bottom turn, carves
-Dynamic Lunge: hip strength and flexibility, fit into those barrels, carves, 
+Dynamic Lunge: hip strength and flexibility, fit into those barrels, carves,
 Ring Chin Ups/Chin Ups:  Shoulder Strength, better paddling
 Pushups: chest strength, better paddling, get up, duck dive
 Band Rotations: arm strength, core strength, paddling
@@ -58,7 +59,7 @@ Deadbug: everything
 Swimming Workout
 Swimming is very similar to paddleing, and can help you become a better paddler. This workout will also help you have better breath control and allow you to remain calm while taking big sets on the head.
 
-The Workout: 
+The Workout:
 4 sets
     150 meter swim
 What you do: swim at an endurance pace, then when you hit the wall, do a flip turn and swim as far as you can under water, then continue swimming and repeat.
@@ -79,7 +80,7 @@ Source: active.com
 Yoga/ Flexibility workouts
 Flexibility can help you do wider stronger turns and better control
 
-The workout: 
+The workout:
 
 Downward facing dog
 Upward facing dog
