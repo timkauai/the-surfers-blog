@@ -17,7 +17,7 @@ keyword6path: "/keyword-pages/surf-brands/"
 author: "Written By James Pratt"
 keywords: "How to Surf • Trendy Surf Talk"
 ---
- Best Workouts for Surfers
+<!---Best Workouts for Surfers
 There are a couple different types of workouts you can do to improve your surfing: Body weight exercises, Swimming workouts (in a lap pool), Paddling workouts and Yoga/Flexibility workouts. 
 
 Body weight exercises are good if you are stuck at home during quarantining and you want something to do to keep in shape when you can get back in the water. 
@@ -91,4 +91,6 @@ Boat pose
 
 
 
-Have a good workout!! This should help you become a better surfer, and let me know how it goes!!
+Have a good workout!! This should help you become a better surfer, and let me know how it goes!!--->
+
+<h3>coming soon...our team of writers are working hard to bring this to you ASAP</h3>

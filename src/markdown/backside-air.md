@@ -16,7 +16,7 @@ keyword6: "Surf Brands"
 keyword6path: "/keyword-pages/surf-brands/"
 ---
 
-How to do a Backside Air in Surfing?
+<!---How to do a Backside Air in Surfing?
 Learning how to surf airs is the next reasonable step in surfing after perfecting the snap, carve and a bit of the barrel ride. Backside has many differences from the frontside, but also many advantages.
 
 Before you start
@@ -46,4 +46,6 @@ Doing a grab when going backwards forces you to bend your knees and looks cleane
 Also, don’t forget to commit. Many people can launch just fine, but just can’t commit in the right way, and completely mess the whole maneuver up
 
 
-Watch the video, it explains it much better
+Watch the video, it explains it much better--->
+
+<h3>coming soon...our team of writers are working hard to bring this to you ASAP</h3>

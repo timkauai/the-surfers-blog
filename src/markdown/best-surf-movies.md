@@ -17,7 +17,7 @@ keyword6path: "/keyword-pages/surf-brands/"
 author: "James Pratt"
 ---
 
-7 Best Surf Movies
+<!---7 Best Surf Movies
 I want to be clear, I am not a movie critic. I am rather an avid surfer who also watches surf movies in my freetime. I figured, due to my vast knowledge on surf films, I would recommend some to you, as you are probably looking for something to watch right now.
 The Endless Summer
 To begin with the best, I would probably consider this the most iconic surf movie of all time. It all started with the search for the perfect wave, and it grew to something so much bigger. I grew up watching this film and getting motivation to go explore every peak I know. It's so hard to give it so much praise without spoiling anything, but this is the best surf movie I have ever watched, I hope to one day go on my own endless summer. The cinematography is good for the time it was filmed in, and I believe that this film will forever be a classic in the land of surf movies. If you haven’t watched it, I 100% recommend it.
@@ -49,4 +49,6 @@ This is the kind of story that only a surfer would understand. There is a specif
 8.5/10
 The Endless Summer II
 The sequel to Endless Summer. I don’t think it is as good as the original, but it is more modern, so there is more surfing that you can relate to as a short border or a longboarder.
-8.5/10
+8.5/10--->
+
+<h3>coming soon...our team of writers are working hard to bring this to you ASAP</h3>

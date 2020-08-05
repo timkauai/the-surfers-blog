@@ -17,7 +17,9 @@ keyword6path: "/keyword-pages/surf-brands/"
 author: "James Pratt"
 ---
 
-The Beginners Guide to Surfing
+<div class="post-title BGTS-title"> </div>
+
+<div class="blog-post">
 Do you want to know what the hardest part of surfing is? Starting... However, I can guarantee you that if you read this entire blog post, you will get up during your first surf session.
 
 There is a right way and a wrong way to learn how to surf. Surfing the wrong way may result in you getting extremely hurt or getting yelled at by some of the locals. This blog post will show you how to learn to surf, the right way!
@@ -25,48 +27,46 @@ There is a right way and a wrong way to learn how to surf. Surfing the wrong way
 There are about 6 steps in learning:
 
 
-Step One: Get the Correct Gear
+<h2>Step One: Get the Correct Gear</h2>
 One of the most important parts of learning to surf is having the right gear to surf with. Believe it or not, having none of the correct gear and having all of the correct gear is the difference between having a good time surfing and falling on every wave.
 
-Gear Item One: Your Surfboard
+<h4 class="center">Gear Item One: Your Surfboard</h4>
 This is the most important piece of gear and therefore can entirely change how well you can surf your first time out.
 
-The kind of surfboard you really want is a Longboard
-** surfboards images **
+<div class="tip-w-pic right">The kind of surfboard you really want is a Longboard or a foam surfboard (But perferable a foam surfboard)<div class="BGTS-longboard pic left"></div></div>
+
 
 The reason you want a bigger board is that it is much easier to paddle into waves, and it is much easier to find your footing on a bigger board than a smaller board. The board will be much stabler, meaning an easier getup and less wobble when you paddle out.
 
 Additionally, you will want fins on the surfboard. It is most likely that they will already have them in, but if not they are absolutely necessary to have, so do your research for cheap longboard fins, the type of fins doesn’t really matter right now at the beginning.
 
-Gear Item Two: Wax
+<h4 class="center">Gear Item Two: Wax</h4>
 Wax is what makes your surfboard sticky. Wax is highly encouraged when surfing.
 
 An important thing to consider when buying wax for your board is water temperature. There are different wax types for different water temperatures so do your research on the spot you are going to surf.
 
 I plan on coming out with a wax review of different brands shortly, so look out for that! :)
 
-Waxing your board is extremely simple, just use some pressure and rub the wax stick all over the board. Where to wax can be easily seen in the visualization below:
-** were to wax visualization **
+Waxing your board is extremely simple, just use some pressure and rub the wax stick all over the board. Make sure not to wax the side with the fins!
 
-Gear Item Three: Wetsuit?
-Depending on where you are surfing you may want to use a wetsuit. If you are in warmer waters like Hawaii, you don’t really need a wetsuit, but if you are learning to surf in California you will definitely want a wetsuit, especially if it is wintertime. 
+<h4 class="center">Gear Item Three: Wetsuit? </h4>
+<div class="tip-w-pic left"><div class="BGTS-wetsuit-temp pic right"> </div>Depending on where you are surfing you may want to use a wetsuit. If you are in warmer waters like Hawaii, you don’t really need a wetsuit, but if you are learning to surf in California you will definitely want a wetsuit, especially if it is wintertime. 
 
-Using the water temperature from buying wax, look at the guide below to determine the thickness necessary for your Wetsuit.
-** Wetsuit temp guide **
+Using the water temperature from buying wax, look at the guide below to determine the thickness necessary for your Wetsuit. </div>
 
-Gear Item Four: Leash
+<h4 class="center">Gear Item Four: Leash</h4>
 Another important item for surfing is a leash. Leashes are extremely helpful to use and can help you easily get your board after you fall off. 
 
 If you don't have a leash, buy one about the size of your board, plus maybe a foot or two.
 
 Additionally, you want to get a leash that is the right thickness for beginners and isn’t built for extremely large waves.
 
-Gear Item Five+: Miscellaneous
+<h4 class="center">Gear Item Five+: Miscellaneous</h4>
 These items are kinda obvious but can help a ton. Make sure to bring a towel and sunscreen. You don’t want to be fried when you finally get out or have to drive home completely soaked, smelling like the ocean.
 
 It also might be helpful to bring a snack in case you get hungry, surfing can be hard work, and a change of clothes if your suit is uncomfortable.
 
-Step Two: Finding the Right Surf Spot
+<h2> Step Two: Finding the Right Surf Spot</h2>
 Choosing the right surf spot is arguably the most important part of surfing, especially if you are going for your first time. Before you go surfing, you want to check the skill level necessary for that surf spot. 
 
 If you are trying to learn to surf at an advanced spot, it is more likely that you are going to get yelled at, and almost certain that you get hurt.
@@ -78,88 +78,100 @@ Most waves can be perfect for you to learn on small days but can be very advance
 Additionally, once arriving it is important to watch the waves and surfers for about 15-30 minutes. This to make sure you understand exactly how the wave breaks, and how the currents work, and how the surfers are interacting. One rule of thumb is, if you are not comfortable swimming in the waves, then you shouldn’t go out!
 
 
-Step Three: Etiquette
+<h2> Step Three: Etiquette </h2>
 Now that you know what gear to use and where to surf, the only thing you are missing is the skills necessary to not piss off other surfers and help you not get yelled at by other surfers (you will start to learn that some surfers are real jerks). Some tips you should know are:
 
-Tip 1: Don’t Drop-In
-What is Dropping in: Dropping in is when you violate the one rule of surfing, if someone is already on the wave, don't try to catch it. Something to keep in mind is that the person with the longest potential ride has the most priority to catch the wave.
+<h4 class="center">Tip 1: Don’t Drop-In</h4>
+<b>What is Dropping in:</b> Dropping in is when you violate the one rule of surfing, if someone is already on the wave, don't try to catch it. Something to keep in mind is that the person with the longest potential ride has the most priority to catch the wave.
 
-Examples
-**images**
+<div class="BGTS-dropin"></div>
 
-How to Avoid this: be aware of the other surfers. Always look for people closer to the peak than you. Also if you accidentally drop in on someone and realize it before the wave ends, surf gets off the wave.
+<b>How to Avoid this:</b> be aware of the other surfers. Always look for people closer to the peak than you. Also if you accidentally drop in on someone and realize it before the wave ends, surf gets off the wave.
 
-Tip 2: Don’t Snake
-What is Snaking: Padding to the peak, around someone, so you have the priotor=ty for the wave. It looks kind of like this: 
-** Img **
+<h4 class="center">Tip 2: Don’t Snake</h4>
+<b>What is Snaking:</b> Padding to the peak, around someone, so you have the priotor=ty for the wave. It looks kind of like this: 
 
-How to avoid this: wait your turn, and don’t paddle behind someone to get closer to the peak.
+<div class="BGTS-snaking"></div>
 
-Tip 3: Paddle wide
-What is padding wide: Paddling wide is when paddling back out to the surf break, it is doing so but paddling very far away from where the wave is breaking.
+<b>How to avoid this:</b> wait your turn, and don’t paddle behind someone to get closer to the peak.
 
-This avoids: when paddling out, getting soo close to those already surfing the wave.
-Tip 4: Take Turns
+<h4 class="center">Tip 3: Paddle wide</h4>
+<b>What is padding wide:</b> Paddling wide is when paddling back out to the surf break, it is doing so but paddling very far away from where the wave is breaking.
+
+<b>This avoids: </b> when paddling out, getting soo close to those already surfing the wave.
+
+<h4 class="center">Tip 4: Take Turns</h4>
 Taking turns is extremely important. It is very important to make sure everyone has a fair opportunity to catch waves, so we solve this problem by creating a hierarchy system in the lineup, by letting those closer to the peak get the waves, then everyone paddles closer after the person closest has caught their wave.
 
 It's kind of like a surfer's conveyor belt.
-Tip 5: Communicate
+
+<h4 class="center">Tip 5: Communicate</h4>
 It is important to communicate with other surfers about whether or not they are going on waves, and if they are, which direction they are heading. This can help people not collide a ton!!
 
-Tip 6: Respect the Locals
+<h4 class="center">Tip 6: Respect the Locals</h4>
 Especially at some surf breaks, it is important to give the locals or people who seem to be locals priority over you and others when they paddle out. Some breaks are extremely localist and the locals can pretty much take any wave they want, and some its more relax and everyone is equal. It really depends on the wave!! This is also why it is important to watch the wave before you go out to see the dynamics of surfers.
-Tip 7: Say Sorry
+
+<h4 class="center">Tip 7: Say Sorry</h4>
 If you at any time realize you messed up, say sorry. This is greatly appreciated by other surfers, and they will most likely not be mad after apologizing.
-Step Four: Paddling
+
+<h2>Step Four: Paddling</h2>
 Learning to paddle is the foundation that your surfing will build on. There are a couple tips we have for you, so you can surf much better. Poor paddling can cause you to paddle much slower than if you were doing it correctly. Additionally, padding correctly can cause you to catch many more waves!
-Positioning
+
+<h4 class="center">Positioning</h4>
 When padding positioning is one of the more important considerations. You want to make sure you are positioned perfectly on the surfboard. An easy way to align yourself on the surfboard is to place your body in the center horizontally, so the stringer (** image **) is along the center of your body. 
 
 Aligning yourself vertically can be more complicated, as there is no marker to help you. You want the surfboard nose to be about 1 to 2 inches above the surface when your back is arched. To make sure your back is arched perfectly, try to pretend you have soccer ball underneath your chin, this will assure yourself that your back is arched correctly.
 **images**
-The Motions
+
+<h4 class="center">The Motions</h4>
 The motion of paddling is quite simple, but there are still ways you can do it wrong, so here are some tips on the motions of paddling the surfboard:
 
-Tip 1: Paddle Deep
+<h5 class="center">Tip 1: Paddle Deep</h5>
 The deeper you paddle the more power you get!
-Tip 2: Paddle with a long-range
+
+<h5 class="center">Tip 2: Paddle with a long-range</h5>
 Your arm should be fully extended when it initially hits the water. Like this -> Img. You should paddle from where your arm enters the water, all the way to your booty
-Tip 3: Lift your whole arm out of the water
+
+<h5 class="center">Tip 3: Lift your whole arm out of the water</h5>
 Don’t let your arm drag on the water, as that creates drag and doesn’t allow for peak paddling velocity!
-Tips
+
+<h4 class="center">Tips</h4>
 Bend your arms, don’t keep them completely stiff.
 Head shouldn’t be on the board, should be above the water. As if there is a soccer ball under your head.
 
 
-Step Five: Dodging Waves
+<h2>Step Five: Dodging Waves</h2>
 When paddling out to a surf break, you will most likely have to get past some white water. In small waves, you can sometimes just brute force your way through this, but there are a couple techniques that can help you get past the small ones better, and prepare you for surfing bigger waves down the road!
-Turtle Roll
-Turtle Rolling is a simple technique that you can do by simply flipping you and your board on your back. After the wave comes over you, you can simply get back up and keep paddling. This can be seen here.
 
+<h4 class="center">Turtle Roll</h4>
+Turtle Rolling is a simple technique that you can do by simply flipping you and your board on your back. After the wave comes over you, you can simply get back up and keep paddling. This can be seen here.
 https://www.youtube.com/watch?v=AO1UHFrj5TQ
-Push Down
+
+<h4 class="center">Push Down</h4>
 Another simple maneuver you can do is pushing down slightly on your front two hands, and going slightly under the waves. This is best for small waves and doesn’t really work in bigger waves.
-DON’T ditch your board
+<b>DON’T ditch your board</b>
 As tempting as it may seem, this is a bad habit, and it can hurt those behind you if it hits them!!
-Step Six: Catching Waves
-Only start the pop up once you are sure you are on the wave.
+
+<h2>Step Six: Catching Waves</h2>
+<h4>Only start the pop up once you are sure you are on the wave.</h4>
 If you are ever feeling like you stand up and are immediately off the wave, try taking one or two more paddles than you think you need.
-Once you feel it going… get your hands in position
+
+<h4>Once you feel it going… get your hands in position</h4>
 About right below your nipple line
 
-Then Arch your back…
+<h4>Then Arch your back…</h4>
 Like you are doing cobra, this will help you lean back and not nose dive.
 
-From there, move one of your feet between your hands
+<h4>From there, move one of your feet between your hands</h4>
 This will put your foot in the perfect position
 
-Have your back foot be kneeling, then move to the stand
+<h4>Have your back foot be kneeling, then move to the stand</h4>
 Then you are doing it!!
 
-Remember to bend your knees and stay low to the board!!
+<h4>Remember to bend your knees and stay low to the board!!</h4>
 
-Something to consider: Get a buddy who knows how to surf to help you out.
+<h2>Something to consider: Get a buddy who knows how to surf to help you out.</h2>
 
-HAVE A GREAT SURF SESH
-
+<h3 class="center">HAVE A GREAT SURF SESH</h3>
+</div>
 
