@@ -726,10 +726,13 @@ footer div a {
   .pic {
     width: 25vw;
     height: 20vh;
-    margin: 2vh 2vw;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
+  }
+
+  .pic-center {
+    margin: 0 auto;
   }
 
   .right {
@@ -751,4 +754,62 @@ footer div a {
 
 .BGTS-wetsuit-temp {
   background-image: url("../../images/BGTS-wetsuit-temp.jpg");
+}
+
+.bannar-image {
+  width: 70vw;
+  height: 30vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  margin-top: 7.5vh;
+  margin-bottom: 5vh;
+}
+
+.BGTS-surf-spot {
+  background-image: url("../../images/BGTS-surf-spot.jpg");
+}
+
+.BGTS-dropin {
+  background-image: url("../../images/BGTS-dropin.webp");
+}
+
+.BGTS-snake {
+  background-image: url("../../images/BGTS-snake.webp");
+  width: 50vw;
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  margin-top: 7.5vh;
+  margin-bottom: 5vh;
+}
+
+.BGTS-padding-bannar {
+  background-image: url("../../images/BGTS-paddling-bannar.jpg");
+}
+
+.BGTS-paddling-position {
+  background-image: url("../../images/BGTS-paddling-pos.jpg");
+  margin-left: 3vw;
+}
+
+.BGTS-dodgin-waves {
+  background-image: url("../../images/BGTS-dodginwaves-bannar.jpg");
+}
+
+.BGTS-catching-waves {
+  background-image: url("../../images/BGTS-catching-waves.jpg");
+}
+
+.BGTS-back {
+  background-image: url("../../images/BGTS-back.webp");
+}
+
+.BGTS-feet {
+  background-image: url("../../images/BGTS-feet.webp");
+}
+
+.BGTS-stand {
+  background-image: url("../../images/BGTS-stand.webp");
 }

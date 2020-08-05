@@ -26,7 +26,6 @@ There is a right way and a wrong way to learn how to surf. Surfing the wrong way
 
 There are about 6 steps in learning:
 
-
 <h2>Step One: Get the Correct Gear</h2>
 One of the most important parts of learning to surf is having the right gear to surf with. Believe it or not, having none of the correct gear and having all of the correct gear is the difference between having a good time surfing and falling on every wave.
 
@@ -34,7 +33,6 @@ One of the most important parts of learning to surf is having the right gear to 
 This is the most important piece of gear and therefore can entirely change how well you can surf your first time out.
 
 <div class="tip-w-pic right">The kind of surfboard you really want is a Longboard or a foam surfboard (But perferable a foam surfboard)<div class="BGTS-longboard pic left"></div></div>
-
 
 The reason you want a bigger board is that it is much easier to paddle into waves, and it is much easier to find your footing on a bigger board than a smaller board. The board will be much stabler, meaning an easier getup and less wobble when you paddle out.
 
@@ -50,12 +48,12 @@ I plan on coming out with a wax review of different brands shortly, so look out 
 Waxing your board is extremely simple, just use some pressure and rub the wax stick all over the board. Make sure not to wax the side with the fins!
 
 <h4 class="center">Gear Item Three: Wetsuit? </h4>
-<div class="tip-w-pic left"><div class="BGTS-wetsuit-temp pic right"> </div>Depending on where you are surfing you may want to use a wetsuit. If you are in warmer waters like Hawaii, you don’t really need a wetsuit, but if you are learning to surf in California you will definitely want a wetsuit, especially if it is wintertime. 
+<div class="tip-w-pic left"><div class="BGTS-wetsuit-temp pic right"> </div>Depending on where you are surfing you may want to use a wetsuit. If you are in warmer waters like Hawaii, you don’t really need a wetsuit, but if you are learning to surf in California you will definitely want a wetsuit, especially if it is wintertime.
 
 Using the water temperature from buying wax, look at the guide below to determine the thickness necessary for your Wetsuit. </div>
 
 <h4 class="center">Gear Item Four: Leash</h4>
-Another important item for surfing is a leash. Leashes are extremely helpful to use and can help you easily get your board after you fall off. 
+Another important item for surfing is a leash. Leashes are extremely helpful to use and can help you easily get your board after you fall off.
 
 If you don't have a leash, buy one about the size of your board, plus maybe a foot or two.
 
@@ -66,8 +64,9 @@ These items are kinda obvious but can help a ton. Make sure to bring a towel and
 
 It also might be helpful to bring a snack in case you get hungry, surfing can be hard work, and a change of clothes if your suit is uncomfortable.
 
+<div class="bannar-image BGTS-surf-spot"> </div>
 <h2> Step Two: Finding the Right Surf Spot</h2>
-Choosing the right surf spot is arguably the most important part of surfing, especially if you are going for your first time. Before you go surfing, you want to check the skill level necessary for that surf spot. 
+Choosing the right surf spot is arguably the most important part of surfing, especially if you are going for your first time. Before you go surfing, you want to check the skill level necessary for that surf spot.
 
 If you are trying to learn to surf at an advanced spot, it is more likely that you are going to get yelled at, and almost certain that you get hurt.
 
@@ -77,21 +76,23 @@ Most waves can be perfect for you to learn on small days but can be very advance
 
 Additionally, once arriving it is important to watch the waves and surfers for about 15-30 minutes. This to make sure you understand exactly how the wave breaks, and how the currents work, and how the surfers are interacting. One rule of thumb is, if you are not comfortable swimming in the waves, then you shouldn’t go out!
 
-
 <h2> Step Three: Etiquette </h2>
 Now that you know what gear to use and where to surf, the only thing you are missing is the skills necessary to not piss off other surfers and help you not get yelled at by other surfers (you will start to learn that some surfers are real jerks). Some tips you should know are:
 
 <h4 class="center">Tip 1: Don’t Drop-In</h4>
-<b>What is Dropping in:</b> Dropping in is when you violate the one rule of surfing, if someone is already on the wave, don't try to catch it. Something to keep in mind is that the person with the longest potential ride has the most priority to catch the wave.
-
-<div class="BGTS-dropin"></div>
+<b>What is Dropping in:</b> Dropping in is when you violate the one rule of surfing, if someone is already on the wave, don't try to catch it. Something to keep in mind is that the person with the longest potential ride has the most priority to catch the wave. Dont Be person B!!
+<div class="tip-w-pic center">
+<div class="BGTS-dropin pic pic-center"></div>Picture by Barefoot Surf
+</div>
 
 <b>How to Avoid this:</b> be aware of the other surfers. Always look for people closer to the peak than you. Also if you accidentally drop in on someone and realize it before the wave ends, surf gets off the wave.
 
 <h4 class="center">Tip 2: Don’t Snake</h4>
-<b>What is Snaking:</b> Padding to the peak, around someone, so you have the priotor=ty for the wave. It looks kind of like this: 
+<b>What is Snaking:</b> Padding to the peak, around someone, so you have the priotorty for the wave. Don't be person B! It looks kind of like this:
 
-<div class="BGTS-snaking"></div>
+<div class="tip-w-pic center">
+<div class="BGTS-snake pic-center"></div>Picture by Barefoot surf
+</div>
 
 <b>How to avoid this:</b> wait your turn, and don’t paddle behind someone to get closer to the peak.
 
@@ -114,14 +115,21 @@ Especially at some surf breaks, it is important to give the locals or people who
 <h4 class="center">Tip 7: Say Sorry</h4>
 If you at any time realize you messed up, say sorry. This is greatly appreciated by other surfers, and they will most likely not be mad after apologizing.
 
+<div class="bannar-image BGTS-padding-bannar"></div>
 <h2>Step Four: Paddling</h2>
 Learning to paddle is the foundation that your surfing will build on. There are a couple tips we have for you, so you can surf much better. Poor paddling can cause you to paddle much slower than if you were doing it correctly. Additionally, padding correctly can cause you to catch many more waves!
 
 <h4 class="center">Positioning</h4>
-When padding positioning is one of the more important considerations. You want to make sure you are positioned perfectly on the surfboard. An easy way to align yourself on the surfboard is to place your body in the center horizontally, so the stringer (** image **) is along the center of your body. 
+When padding positioning is one of the more important considerations. You want to make sure you are positioned perfectly on the surfboard. An easy way to align yourself on the surfboard is to place your body in the center horizontally, so the center of your board is along the center of your body.
+
+<div class="tip-w-pic left">
+<div class="BGTS-paddling-position pic right"> </div>
 
 Aligning yourself vertically can be more complicated, as there is no marker to help you. You want the surfboard nose to be about 1 to 2 inches above the surface when your back is arched. To make sure your back is arched perfectly, try to pretend you have soccer ball underneath your chin, this will assure yourself that your back is arched correctly.
-**images**
+
+Notice how the surfer in the picture has the nose only slightly above the water surface. That is how you want the board to be!
+
+</div>
 
 <h4 class="center">The Motions</h4>
 The motion of paddling is quite simple, but there are still ways you can do it wrong, so here are some tips on the motions of paddling the surfboard:
@@ -139,7 +147,7 @@ Don’t let your arm drag on the water, as that creates drag and doesn’t allow
 Bend your arms, don’t keep them completely stiff.
 Head shouldn’t be on the board, should be above the water. As if there is a soccer ball under your head.
 
-
+<div class="bannar-image BGTS-dodgin-waves"></div>
 <h2>Step Five: Dodging Waves</h2>
 When paddling out to a surf break, you will most likely have to get past some white water. In small waves, you can sometimes just brute force your way through this, but there are a couple techniques that can help you get past the small ones better, and prepare you for surfing bigger waves down the road!
 
@@ -152,6 +160,7 @@ Another simple maneuver you can do is pushing down slightly on your front two ha
 <b>DON’T ditch your board</b>
 As tempting as it may seem, this is a bad habit, and it can hurt those behind you if it hits them!!
 
+<div class="bannar-image BGTS-catching-waves"></div>
 <h2>Step Six: Catching Waves</h2>
 <h4>Only start the pop up once you are sure you are on the wave.</h4>
 If you are ever feeling like you stand up and are immediately off the wave, try taking one or two more paddles than you think you need.
@@ -159,19 +168,38 @@ If you are ever feeling like you stand up and are immediately off the wave, try 
 <h4>Once you feel it going… get your hands in position</h4>
 About right below your nipple line
 
+<div class="tip-w-pic right">
 <h4>Then Arch your back…</h4>
+<div class="BGTS-back pic left"> </div>
 Like you are doing cobra, this will help you lean back and not nose dive.
+</div>
 
+<br>
+
+<br>
+<div class="tip-w-pic left">
+<div class="BGTS-feet pic right"> </div>
 <h4>From there, move one of your feet between your hands</h4>
 This will put your foot in the perfect position
+</div>
 
+<br>
+
+<br>
+<div class="tip-w-pic right">
 <h4>Have your back foot be kneeling, then move to the stand</h4>
+<div class="BGTS-stand pic left"> </div>
 Then you are doing it!!
+</div>
 
+<br>
+
+<br>
 <h4>Remember to bend your knees and stay low to the board!!</h4>
 
 <h2>Something to consider: Get a buddy who knows how to surf to help you out.</h2>
 
 <h3 class="center">HAVE A GREAT SURF SESH</h3>
-</div>
 
+<h4> All images are either from unsplash.com or are courtesy of barefoot surf journey </h4>
+</div>
