@@ -721,14 +721,20 @@ footer div a {
 
 .tip-w-pic {
   margin-bottom: 7.5vh;
+  font-family: open-sans;
 
 
   .pic {
     width: 25vw;
     height: 20vh;
+    margin: 2vh 2vw;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
+  }
+
+  .corners {
+    border-radius: 30px;
   }
 
   .pic-center {
@@ -812,4 +818,36 @@ footer div a {
 
 .BGTS-stand {
   background-image: url("../../images/BGTS-stand.webp");
+}
+
+.BSM-endless-summer {
+  background-image: url("../../images/7BS/endless-summer.png");
+}
+
+.BSM-stab {
+  background-image: url("../../images/7BS/stab.jpg");
+}
+
+.BSM-blue-moon {
+  background-image: url("../../images/7BS/blue-moon.jpg");
+}
+
+.BSM-momentum {
+  background-image: url("../../images/7BS/momentum.jpg");
+}
+
+.BSM-kissed {
+  background-image: url("../../images/7BS/kissed.jpg");
+}
+
+.BSM-chasing {
+  background-image: url("../../images/7BS/chasing.jpg");
+}
+
+.BSM-II {
+  background-image: url("../../images/7BS/II.jpg");
+}
+
+.BSM-title {
+  background-image: url("../../images/7BS/title-image.jpg");
 }
