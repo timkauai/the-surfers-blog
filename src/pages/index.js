@@ -47,13 +47,13 @@ const IndexPage = ({ data }) => {
       </div>{" "}
       <hr className="horiz-line" />
       <div className="large above-fold">
-        <div className="featured-large-img"> </div>{" "}
+        <div className="featured-large-img BSM-title"> </div>{" "}
         <div className="large-padding">
           <div className="titleing">
             <h1 className="article-title"> {dt.large1.title} </h1>{" "}
-            <h3> {dt.large1.keywords}</h3>{" "}
+            <h3> {dt.large1.keywords} </h3>{" "}
           </div>{" "}
-          <p>{dt.large1.desc}</p> <Link to={dt.large1.path}> Read More </Link>{" "}
+          <p> {dt.large1.desc} </p> <Link to={dt.large1.path}> Read More </Link>{" "}
         </div>{" "}
       </div>{" "}
       <div className="latest-posts">
@@ -64,7 +64,8 @@ const IndexPage = ({ data }) => {
               className="latest-img"
               fluid={data.imgtwo.childImageSharp.fluid}
             />{" "}
-            <h1>{dt.latestpost1.title}</h1> <h3> {dt.latestpost1.keywords} </h3>{" "}
+            <h1> {dt.latestpost1.title} </h1>{" "}
+            <h3> {dt.latestpost1.keywords} </h3>{" "}
             <Link to={dt.latestpost1.path}> Read More </Link>{" "}
           </div>{" "}
           <div className="latest-article">
@@ -72,7 +73,7 @@ const IndexPage = ({ data }) => {
               className="latest-img"
               fluid={data.imgtwo.childImageSharp.fluid}
             />{" "}
-            <h1>{dt.latestpost2.title} </h1> <h3>{dt.latestpost2.keywords}</h3>{" "}
+            <h1> {dt.latestpost2.title} </h1> <h3>{dt.latestpost2.keywords}</h3>{" "}
             <Link to={dt.latestpost2.path}> Read More </Link>{" "}
           </div>{" "}
           <div className="latest-article">
@@ -100,13 +101,13 @@ const IndexPage = ({ data }) => {
         <h3 className="latest-title"> {dt.featuredkeyword.title} </h3>{" "}
         <div className="large">
           {" "}
-          <div className="featured-large-img"> </div>{" "}
+          <div className="featured-large-img BGTS-title"> </div>{" "}
           <div className="large-padding">
             <div className="titleing">
               <h1> {dt.featuredkeyword.large.title} </h1>{" "}
               <h3> {dt.featuredkeyword.large.keywords} </h3>{" "}
-            </div>
-            <p>{dt.featuredkeyword.large.desc}</p>{" "}
+            </div>{" "}
+            <p> {dt.featuredkeyword.large.desc} </p>{" "}
             <Link to={dt.featuredkeyword.large.path}> Read More </Link>{" "}
           </div>{" "}
         </div>{" "}
@@ -147,35 +148,40 @@ const IndexPage = ({ data }) => {
       <div>
         <h3 className="centered margin-top"> editors choice </h3>{" "}
         <div className="large">
-          <div className="featured-large-img"> </div>{" "}
+          <div className="featured-large-img BSM-title"> </div>{" "}
           <div className="large-padding">
             <div className="titleing">
               <h1> {dt.editorschoice1.title} </h1>{" "}
               <h3> {dt.editorschoice1.keywords} </h3>{" "}
             </div>{" "}
-            <p>{dt.editorschoice1.desc}</p>{" "}
+            <p> {dt.editorschoice1.desc} </p>{" "}
             <Link to={dt.editorschoice1.path}> Read More </Link>{" "}
           </div>{" "}
         </div>{" "}
         <div>
           <div className="large">
-            <div className="featured-large-img"> </div>{" "}
+            <div className="featured-large-img BGTS-title"> </div>{" "}
             <div className="large-padding">
               <div className="titleing">
                 <h1> {dt.editorschoice2.title} </h1>{" "}
                 <h3> {dt.editorschoice2.keyword2} </h3>{" "}
               </div>{" "}
-              <p>{dt.editorschoice2.desc}</p>{" "}
+              <p> {dt.editorschoice2.desc} </p>{" "}
               <Link to={dt.editorschoice2.path}> read </Link>{" "}
             </div>{" "}
           </div>{" "}
         </div>{" "}
-      </div>
+      </div>{" "}
       <h3 className="centered"> popular posts </h3>{" "}
-      <div style={{ marginBottom: "10vh" }} className="line-of-3">
+      <div
+        style={{
+          marginBottom: "10vh",
+        }}
+        className="line-of-3"
+      >
         <div className="sm">
           {" "}
-          <div className="div-sm-img"> </div>{" "}
+          <div className="div-sm-img BGTS-title"> </div>{" "}
           <h1> {data.keys.nodes[0].frontmatter.poppost1.title} </h1>{" "}
           <h3> {dt.poppost1.keywords} </h3>{" "}
           <Link to={dt.poppost1.path}> read more </Link>{" "}
@@ -197,8 +203,13 @@ const IndexPage = ({ data }) => {
       </div>{" "}
       <footer>
         <div className="footer-links left">
-          <Link to="https://reddit.com"> reddit </Link> <Link> youtube </Link>{" "}
-          <Link> pintrest </Link> <Link> insta </Link>{" "}
+          <Link to="https://reddit.com/r/thesurfersblog"> reddit </Link>{" "}
+          <Link to="https://www.youtube.com/channel/UCqIU4RDO2UcnmkoZBa5Z3lA?view_as=subscriber">
+            {" "}
+            youtube{" "}
+          </Link>{" "}
+          <Link> pintrest </Link>{" "}
+          <Link to="https://www.instagram.com/thesurfersblog"> insta </Link>{" "}
         </div>{" "}
         <div className="footer-links right">
           <Link> contact </Link> <Link> feedback </Link>{" "}
