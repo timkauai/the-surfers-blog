@@ -1,6 +1,6 @@
 ---
 path: "/beginners-guide-to-surfing"
-title: "The Beginners Guide to Surfing"
+title: "How to Surf for Beginners! 10 lessons to learn before you go out!"
 post: "true"
 keyword1: "How To Surf"
 keyword1path: "/keyword-pages/how-to-surf/"
