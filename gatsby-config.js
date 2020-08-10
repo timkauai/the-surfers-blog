@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `The Surfers Blog`,
+    description: `A Blog for ALL surfers!! Here we talk about all things surf, from surf news and the upcoming WSL season, as well as surf tips on how to surf better and how to surf! We also do Product Reviews for surf products!`,
+    author: `James Pratt`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
