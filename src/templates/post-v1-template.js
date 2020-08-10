@@ -21,7 +21,10 @@ export default function Template({ data }) {
   };
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO
+        title={post.frontmatter.title}
+        description={post.frontmatter.description}
+      />{" "}
       <hr className="horiz-line" />
       <div className="keywords">
         <Link to={post.frontmatter.keyword1path}>
@@ -84,10 +87,11 @@ export default function Template({ data }) {
         <h1> {post.frontmatter.title} </h1>{" "}
         <div className="line-of-info">
           <h3>
-            {post.frontmatter.keywords} • {post.frontmatter.author}
-          </h3>
-        </div>
-      </div>
+            {" "}
+            {post.frontmatter.keywords}• {post.frontmatter.author}{" "}
+          </h3>{" "}
+        </div>{" "}
+      </div>{" "}
       <div
         dangerouslySetInnerHTML={{
           __html: post.html,
@@ -127,6 +131,7 @@ export const postQuery = graphql`
         keyword5path
         keyword6
         keyword6path
+        description
       }
     }
   }

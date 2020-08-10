@@ -15,6 +15,7 @@ keyword5path: "/keyword-pages/surf-movies/"
 keyword6: "Surf Brands"
 keyword6path: "/keyword-pages/surf-brands/"
 author: "James Pratt"
+description: "If you want to learn how to surf as a beginner, this is the description for you! This post will teach you everything you need to know for your first surf session from surf etiquette to basic surf lessons."
 ---
 
 <div class="post-title BGTS-title"> </div>

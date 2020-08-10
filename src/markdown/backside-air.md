@@ -14,6 +14,7 @@ keyword5: "Surf Movies"
 keyword5path: "/keyword-pages/surf-movies/"
 keyword6: "Surf Brands"
 keyword6path: "/keyword-pages/surf-brands/"
+description: "Currently Under Construction, this post will be out soon!"
 ---
 
 <!---How to do a Backside Air in Surfing?
@@ -23,7 +24,7 @@ Before you start
 You want to make sure you have the backside snap and backside carves down, not knowing how to do these will hurt you in the long run, but its still possible to learn if you aren’t 100% confident with those yet.
 
 Speed. Speed. Speed.
-When you start on the wave and decide you want to do a backside air, the more important thing you can do is gain speed! 
+When you start on the wave and decide you want to do a backside air, the more important thing you can do is gain speed!
 
 Find the right foot placement and section to do it, but it is important to gain a bunch of speed before you attempt to go for the air
 

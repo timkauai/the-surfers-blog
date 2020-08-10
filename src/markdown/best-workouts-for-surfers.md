@@ -16,6 +16,7 @@ keyword6: "Surf Brands"
 keyword6path: "/keyword-pages/surf-brands/"
 author: "Written By James Pratt"
 keywords: "How to Surf • Trendy Surf Talk"
+description: "Currently Under Construction, this post will be out soon!"
 ---
 
 <!---Best Workouts for Surfers
